@@ -1,0 +1,15 @@
+{
+	"name": "madf321786",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b92f6cf-e025-401b-9a5d-f73aada8b35b",
+		"tenantId": "b9fec68c-c92d-461e-9a97-3d03a0f18b82"
+	}
+}
