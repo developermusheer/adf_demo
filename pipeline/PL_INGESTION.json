@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "pipeline_ingestion",
+				"description": "used to copy ",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
