@@ -1,6 +1,12 @@
 {
 	"name": "madf321786",
 	"properties": {
+		"globalParameters": {
+			"email_recepient": {
+				"type": "string",
+				"value": "shaikmusheernew@gmail.com"
+			}
+		},
 		"trustModeClaimForMi": {
 			"value": "Enabled",
 			"editable": true
